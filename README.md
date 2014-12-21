@@ -10,9 +10,9 @@ On a high level, this script does the following:
 4. Creates a tidy data set with the average of each variable for each activity and each subject
 
 ## Running the code
-Perform the following steps in the console:
-1. setwd("<local directory>/UCI HAR Dataset")
-2. source("run_analysis.R")
+Perform the following steps in the console in the same order:
+* setwd("<local directory>/UCI HAR Dataset")
+* source("run_analysis.R")
 
 ## Steps involved in coding
 
