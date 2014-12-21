@@ -1,4 +1,4 @@
-# GettingCleaningDataProject
+# Getting and Cleaning Data - Project
 
 ## run_analysis.R
 This section of the document describes how the run_analysis.R script works. UCI HAR Dataset folder is assumed to be the working directory. Temporary variables are used to store temporarily retrieved data from individual files. They are later overwritten to save memory. Indices of good features are retrieved and stored and are later used to subset the data tables.
